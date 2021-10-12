@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vouneo
-- 👀 I’m interested in web technologies like HTML, CSS, JS and Typescript.
+- 👀 I’m interested in web technologies like HTML, CSS, JS and Typescript. Nowadays being a strong Rust enthusiast.
 - 🌱 I’m currently learning the Javascript basis for my first large project which is a video webapp called "Dreadflix" that is a netflix clone but horror oriented.
 - 💞️ I’m looking to collaborate on linux projects, specially KDE Plasma interfaces. 
 - 📫 How to reach me: Twitter @vouneo and Instagram @vouneo_
