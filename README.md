@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **a bread making app for myself, and a netflix clone from the scratch with frontend skills.**
 
-- 🌱 I’m currently learning **frameworks like Vue.js and Angular.**
+- 🌱 I’m currently learning **frameworks like Svelte and Astro.**
 
-- 🤝 I’m looking for help with **Rust web development**
+- 🤝 I’m looking for help with **Rust cli tools**
 
 - 👨‍💻 All of my projects are available at [www.vouneo.com](www.vouneo.com)
 
